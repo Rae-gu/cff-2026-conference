@@ -1,6 +1,6 @@
 ---
 name: cff-2026-conference
-description: 查询基金会行业2026年会的公开议程、嘉宾、慈善市集和参会指南，按兴趣推荐场次并比较时间冲突。
+description: 查询基金会行业2026年会的公开议程、嘉宾、慈善市集、报名开票和现场服务，按兴趣推荐场次并比较时间冲突。
 disable-model-invocation: true
 ---
 
@@ -11,6 +11,7 @@ disable-model-invocation: true
 ## 查阅资料
 
 - 用 [纯文字版全议程](references/programme.txt) 查找场次、议题和嘉宾。此文件来自组委会提供的议程稿，适合离线查询。
+- 用 [会前与会中参会问答](references/faq.md) 查报名、开票、交通、签到、活动选择、集章、开放日和酒店服务。资料对补签到开始时间有 08:00 和 09:00 两种说法，未核实时明确提示差异。
 - 联网时查看 [大会日程](https://ac-2026.cfforum.org.cn/2026/agenda)、[大会嘉宾](https://ac-2026.cfforum.org.cn/2026/guests)、[慈善市集](https://ac-2026.cfforum.org.cn/2026/market) 和 [参会指南](https://ac-2026.cfforum.org.cn/2026/guide)。回答时间、地点、报名和交通问题时，优先引用门户最新公开信息。
 - 门户无法访问时说明使用了离线议程；两处有差异时指出具体差异，并给出门户链接供参会者核对。
 
